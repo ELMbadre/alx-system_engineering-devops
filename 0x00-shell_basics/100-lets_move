@@ -1,2 +1,2 @@
-#!bin/bash
-ls -a . .. /boot
+#!/bin/bash
+mv [[:upper:]]* /tmp/u
