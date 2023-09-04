@@ -1,2 +1,2 @@
 #!/bin/bash
-Hello, Word
+ehco "Hello ,Word"
