@@ -30,5 +30,4 @@ The project includes an example postmortem that walks through a real-world scena
 
 1. **Clone the Repository**: Start by cloning this repository to your local machine.
    ```bash
-   git clone https://github.com/khalidelaasry/0x19-postmortem.git
-
+   git clone https://github.com/ELMbadre/alx-system_engineering-devops/tree/master/0x19-postmortem
